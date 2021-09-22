@@ -1,5 +1,4 @@
-# Project Title
-Google Books Search
+# Google Books Search
 
 ## Description
 A Java MVVM android mobile application that fetches the Google books API 
